@@ -10,4 +10,4 @@ pandas;
 numpy;
 re;
 
-Estrarre il file csv 'rating.csv' dall'archivio rating.7z (il file è stato compresso e diviso per via delle limitazione di upload di github)
+Estrarre il file csv 'rating.csv' dall'archivio rating.7z (il file è stato compresso per via delle limitazione di upload di github)
