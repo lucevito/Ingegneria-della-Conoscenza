@@ -1,6 +1,6 @@
 # Ingegneria-della-Conoscenza
 Caso di Studio del progetto di Ingegneria della Conoscenza di 
-Luce Vito matricola : 698859
+Luce Vito matricola : 698859,
 Simone De Girolamo matricola : 717450
 
 Estrarre il file csv 'rating.csv' dall'archivio rating.7z 
