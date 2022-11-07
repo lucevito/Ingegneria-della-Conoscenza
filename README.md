@@ -1,0 +1,13 @@
+# Ingegneria-della-Conoscenza
+Caso di Studio del progetto di Ingegneria della Conoscenza di Luce Vito matricola : 698859 Simone 
+
+Per l'avvio usare 'main.py'.
+
+Librerie Necessarie per l'avvio:
+scipy;
+sklearn;
+pandas;
+numpy;
+re;
+
+Estrarre il file csv 'rating.csv' dall'archivio rating.7z (il file è stato compresso per via delle limitazione di upload di github)
